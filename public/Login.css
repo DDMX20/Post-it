@@ -1,0 +1,39 @@
+.Login {
+  margin: 20px;
+  float: right;
+  width: 45%;
+  background-color: rgba(118, 186, 27, 1);
+  border-radius: 50px;
+  text-align: center;
+}
+
+.Login h1 {
+  color: rgba(30, 86, 49, 1);
+  padding: 10px 0 10px 80px;
+  border: 2px solid rgba(30, 86, 49, 1);
+  margin: 10px 0 0 20px;
+  width: 80%;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  text-align: left;
+}
+.Login .Username {
+  color: rgba(30, 86, 49, 1);
+  padding: 10px;
+  margin: 25px 0 0 20px;
+  background-color: rgba(164, 222, 2, 1);
+  border: none;
+  border-radius: 25px;
+  width: 80%;
+  text-align: center;
+}
+
+.Login button {
+  margin: 20px;
+  border-radius: 25px;
+  background-color: rgba(164, 222, 2, 1);
+  border: none;
+  width: 100px;
+  height: 50px;
+}
